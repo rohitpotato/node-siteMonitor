@@ -1,5 +1,5 @@
 # node-siteMonitor
-An uptime monitor for http/https websites over the internet.
+A Node.js uptime monitor for http/https websites over the internet.
 
 Uses File system over a conventional relational database for storing data.
 Uses no npm library of any sort. Uses predefined node modules.
